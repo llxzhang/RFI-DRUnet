@@ -5,9 +5,9 @@ import os
 from scipy import stats
 import scipy.io
 
-import create_database.mutils as mutils
-import create_database.simulation_pulse as simulation_pulse
-import create_database.simulation_rfi as simulation_rfi
+import mutils as mutils
+import simulation_pulse as simulation_pulse
+import simulation_rfi as simulation_rfi
 
 
 #path
